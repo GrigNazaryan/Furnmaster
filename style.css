@@ -114,7 +114,7 @@
 }
 
 .page1 {
-    height: 100vh;
+    height: auto;
 }
 
 .left {
@@ -305,7 +305,7 @@
     position: relative;
 }
 .page2 {
-    height: 80vh;
+    height: auto;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -390,7 +390,7 @@
 }
 
 .page3 {
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -576,7 +576,7 @@
 }
 
 .page4 {
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -595,7 +595,7 @@
 }
 
 .page5 {
-    height: 100vh;
+    height: auto;
     background-image: url(maketdesign/sofa-collection-banner.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -657,7 +657,7 @@
 }
 
 .page6 {
-    height: 100vh;
+    height: auto;
     display: flex;
     flex-direction: column;
     gap: 50px;
@@ -786,7 +786,7 @@
 }
 
 .page7 {
-    height: 35vh;
+    height: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -834,7 +834,7 @@
 
 }
 .page8{
-    height: 80vh;
+    height: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
